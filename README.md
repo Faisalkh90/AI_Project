@@ -31,12 +31,6 @@ The past two years have been extremely difficult and hard to control with Covid1
 
 
 
-## Technologies [![up]]
-
-
-* ![vscode]     VScode
-* ![git]        Git
-* ![jupyter]     Jupyter
 
 
 
