@@ -16,10 +16,11 @@
 * [Technologies](https://github.com/amhalrasheed/Workshop-2#technologies)
 
 
-## Our goal [![up]](https://github.com/amhalrasheed/Workshop-2#table-of-contents)
+## Our problem [![up]](https://github.com/amhalrasheed/Workshop-2#table-of-contents)
 
 
-The goal of this project has two main sections. The first section is to set up the environment and run the initial code of the project , and most importantly to work together as a team. The second section is to make some improvement to the initial code of the project. You can refer to that in the [requirements folder](https://github.com/amhalrasheed/Workshop-2/tree/main/requirements).
+The past two years have been extremely difficult and hard to control with Covid19 and the pandemic. So we wanted to create an application that would help even in a trivial way.In our application problem we want to transfer a patient from a neighborhood(Alwadi) healthcare center to the National Guard Hospital. By applying A* algorithm
+
 
 
 ## Team members [![up]](https://github.com/amhalrasheed/Workshop-2#table-of-contents)
